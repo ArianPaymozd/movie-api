@@ -6,7 +6,6 @@ const helmet = require('helmet')
 const cors = require('cors')
 
 const MOVIES = require('./movies.json')
-const app = require('../express-boilerplate/src/app')
 
 app = express()
 
